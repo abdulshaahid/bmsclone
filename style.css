@@ -205,3 +205,20 @@ margin-bottom: 20px;
 .footer2 p {
     margin: 10px 0;
 }
+
+.mv1{
+    border-radius: 50px;
+    border-bottom-left-radius: ;
+}
+
+.lst{
+    display: flex;
+    background-color: #3c3c3c;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.lst button{
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
